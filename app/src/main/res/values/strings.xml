@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BGImageViewer</string>
+    <string name="input_url_hint">Введите URL картинки</string>
+</resources>
